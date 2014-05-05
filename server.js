@@ -19,5 +19,3 @@
   }).listen(4000);
 
 }).call(this);
-
-var temp;
